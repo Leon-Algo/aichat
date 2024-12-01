@@ -7,7 +7,7 @@
 
 ## 简介
 
-Leon的AI助手助理 是一个基于 Streamlit 开发的智能编程助手应用，它提供了直观的界面和强大的 AI 对话能力，帮助开发者更高效地解决编程问题。
+Leon的AI助手助理，是一个基于 Streamlit 开发的智能编程助手应用，它提供了直观的界面和强大的 AI 对话能力，帮助开发者更高效地解决编程问题。
 
 ## 特性
 
@@ -30,7 +30,7 @@ Leon的AI助手助理 是一个基于 Streamlit 开发的智能编程助手应�
 
 1. 克隆仓库：
 ```bash
-git clone https://gitcode.com/langgptai/aichat.git
+git clone https://github.com/Leon-Algo/aichat
 cd aichat
 ```
 
