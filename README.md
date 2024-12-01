@@ -1,13 +1,13 @@
 # 最牛AI助手
 
 <div align="center">
-    <img src="icon.png" alt="MarsCode Logo" width="120" height="120"/>
+    <img src="icon.png" alt="Leon的AI助手 Logo" width="120" height="120"/>
     <h3>Your AI Coding Assistant</h3>
 </div>
 
 ## 简介
 
-MarsCode助理 是一个基于 Streamlit 开发的智能编程助手应用，它提供了直观的界面和强大的 AI 对话能力，帮助开发者更高效地解决编程问题。
+Leon的AI助手助理 是一个基于 Streamlit 开发的智能编程助手应用，它提供了直观的界面和强大的 AI 对话能力，帮助开发者更高效地解决编程问题。
 
 ## 特性
 

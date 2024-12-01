@@ -34,7 +34,7 @@ DEFAULT_PROMPT = """你是一个专业的AI助手，你应当：
 
 # 页面配置
 st.set_page_config(
-    page_title="MarsCode AI",
+    page_title="Leon的AI助手",
     page_icon="🚀",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -444,7 +444,7 @@ def create_sidebar():
                              style="width:100%;height:100%;object-fit:cover;">
                     </div>
                     <div class="brand-text">
-                        <h1 class="brand-header">MarsCode</h1>
+                        <h1 class="brand-header">Leon的AI助手</h1>
                         <div class="brand-subtitle">Your AI Coding Assistant</div>
                     </div>
                 </div>
@@ -550,7 +550,7 @@ MARSCODE_MODEL_EP=your-model-endpoint
         st.markdown("---")
         st.markdown("""
             <div style='text-align: center; color: #a6adc8; font-size: 0.875rem;'>
-                MarsCode v1.0<br>
+                Leon的AI助手 v1.0<br>
                 Made with ❤️ by Mars Team
             </div>
         """, unsafe_allow_html=True)
@@ -601,7 +601,7 @@ def main():
                 <div class="chat-message assistant-message">
                     <div class="avatar">🤖</div>
                     <div class="message-content">
-                        👋 Hello! I'm your MarsCode AI assistant. How can I help you with coding today?
+                        👋 Hello! I'm your Leon的AI助手 AI assistant. How can I help you with coding today?
                     </div>
                 </div>
             """, unsafe_allow_html=True)
